@@ -8,13 +8,14 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=xjessica&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
   
-  
+<div style="display: inline_block"><br>
   <img src="https://img.icons8.com/ios/50/000000/laptop-metrics--v1.png"/>
   <img src="https://img.icons8.com/ios/50/000000/binoculars.png"/>
   <img src="https://img.icons8.com/external-wanicon-lineal-wanicon/64/000000/external-product-influencer-marketing-wanicon-lineal-wanicon.png"/>
+</div>
   
-  ##
- 
+  ##  
+
 <div> 
 
   <a href="https://www.instagram.com/jessicaxafranski/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
